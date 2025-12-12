@@ -1,0 +1,12 @@
+fang {
+    a = input("a: ");
+    x = input("x: ");
+    y = input("y: ");
+
+    print("add", a + x + y);
+    print("sub", a - x - y);
+    print("mul", a * x * y);
+    print("div", a / x / y);
+    print("mix", (a + x) * x / y);
+}
+
